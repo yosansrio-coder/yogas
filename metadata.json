@@ -1,0 +1,6 @@
+{
+  "name": "IMUT Jabar",
+  "description": "Aplikasi Monitoring Progres Usulan Mutasi Pegawai di Lingkungan Kantor Wilayah Direktorat Jenderal Pemasyarakatan Jawa Barat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
